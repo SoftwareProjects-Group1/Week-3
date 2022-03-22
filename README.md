@@ -12,6 +12,7 @@ To receive feedback on software prototype functionality and user interface from 
 
 ```
 Milestones:
+
 At the end of the week, you are expected to achieve the following:
 
 To have received feedback on your prototype system from your client.
